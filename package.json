@@ -17,6 +17,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "db-seed": "^1.2.0",
     "nodemon": "^2.0.6"
   },
   "dependencies": {
